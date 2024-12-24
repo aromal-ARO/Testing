@@ -10,3 +10,4 @@ for (let i =0 ;i<b;i++){
 
 }
 console.log(g)
+console.log("HEy how are you doing")
